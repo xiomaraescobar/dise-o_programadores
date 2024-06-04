@@ -1,22 +1,22 @@
 
-Maria's Manos de Arte.
+Maria's Manos Creativas.
 
-Maria's manos de arte.
-es un emprendimiento familiar  donde se fabrican  aretes,collares y cintas para decorar sombreros. tiene poco tiempo en el mercado y sin presencia digital.
+Maria's Manos Creativas.
+Es un emprendimiento familiar  donde se fabrican  aretes, collares y cintas para decorar sombreros. tiene poco tiempo en el mercado y sin presencia digital.
 
 objetivo:
  -Crear una página web para dar a conocer la marca y vender las  manualidades hechas a mano con mostacila.
  -Tener mayor interactividad en redes sociales. 
- -La pagina debe destacar el compromiso con el medio ambiente y  la calidad artesanal de los productos.
+ -La pagina debe destacar la calidad artesanal de los productos.
 
 El público objetivo:
 -Personas interesadas en productos artesanales y ecológicos, con edades entre 25 y 45 años.
 
 Requisitos:
-- Sección de impacto ecológicos
 - Sección de productos con descripción y fotos.
 -Información de contacto y enlaces a redes sociales.
 -Diseño responsivo para dispositivos móviles y de escritorio.
+-Carrito de compra.
 
 Estilo visual:
 -Colores naturales y suaves.
@@ -24,7 +24,8 @@ Estilo visual:
 -Imágenes de alta calidad que muestren los detalles de los productos.
 
 Competencia:
--mercados artesanales.
+-Mercados artesanales.
+-Tiendas en linea.
 
 Distribución.
 -Página web.
