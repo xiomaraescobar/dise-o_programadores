@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #ffffff;
+  background-color: #FABF87;
   padding: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: flex;
@@ -41,11 +41,15 @@ section {
 }
 
 #home {
-  background-color: #e0f7fa;
+  background-color: #FAE9D9;
+}
+#home img {
+  width: 100%;
+  height: auto;
 }
 
 #products {
-  background-color: #ffffff;
+  background-color: #FAE9D9;
 }
 
 .grid-container {
@@ -55,13 +59,37 @@ section {
   padding: 20px;
 }
 
+.grid-container .card {
+  background-color: #FABF87;
+  border-radius: 5px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 70px;
+}
+
+
 .product img {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
+}
+.principal-images {
+  width: 25vw;
+  border-radius: 19px;
+}
+.secundary {
+  width: 25vw;
+  border-radius: 19px;
+  &:hover{
+    transform: scale(1.1);
+ }
+}
+.sub-product {
+  font-weight: bold;
+  text-align: center;
 }
 
 #contact {
-  background-color: #e0f7fa;
+  background-color: #FAE9D9;
 }
 
 .social-links {
@@ -78,7 +106,7 @@ section {
 }
 
 footer {
-  background-color: #333;
+  background-color: #F78D3B;
   color: #fff;
   text-align: center;
   padding: 20px;
